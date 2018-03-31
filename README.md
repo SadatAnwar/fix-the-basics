@@ -22,6 +22,7 @@
 * [Interactive Mathematics Miscellany and Puzzles](https://www.cut-the-knot.org/)
 * [Poisson Distribution Problems](https://www.umass.edu/wsp/resources/poisson/problems.html)
 * [brilliant](https://brilliant.org/)
+* [One Hundred Solved Exercises for the subject: Stochastic Processes](https://www.stat.berkeley.edu/~aldous/150/takis_exercises.pdf)
 
 ### Other
 * [The Nature Of Code](http://natureofcode.com/book/)
