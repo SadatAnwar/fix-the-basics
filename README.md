@@ -4,6 +4,10 @@
 
 ### Probability
 * [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
+* [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+* [A Zero-Math Introduction to Markov Chain Monte Carlo Methods](https://towardsdatascience.com/a-zero-math-introduction-to-markov-chain-monte-carlo-methods-dcba889e0c50)
+* [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+* [Inventory Forecasting with Markov Chain Monte Carlo](https://pkghosh.wordpress.com/2016/06/14/inventory-forecasting-with-markov-chain-monte-carlo/)
 
 ### Calculus and Linear algebra
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
