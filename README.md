@@ -12,6 +12,7 @@
 ### Calculus and Linear algebra
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [Coding The Matrix: Linear Algebra Through Computer Science Applications](http://codingthematrix.com/)
+* [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
 
 ### Optimisation
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
