@@ -1,6 +1,6 @@
 # Fix the basics
 
-## Foundations
+## Foundation
 
 ### Probability
 * [Grinstead and Snell’s Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf)
@@ -72,7 +72,8 @@
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
 * [An opensource DIY self driving platform for small scale cars](http://www.donkeycar.com/)
 
-## Other links
+## Curriculum Suggestions
 
+* [fast.ai](http://www.fast.ai/)
 * [Open Source Society University](https://github.com/ossu/data-science)
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
