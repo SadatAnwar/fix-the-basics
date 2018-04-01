@@ -31,7 +31,10 @@
 * [101 NumPy Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 * [S-38.3143 Queueing Theory (5 ECTS) L](https://www.netlab.tkk.fi/opetus/s383143/kalvot/english.shtml)
 
-## DS, AI, ML
+## Data Science, AI, ML
+
+### Basics
+* [Computational and Inferential Thinking. The Foundations of Data Science](https://ds8.gitbooks.io/textbook/content/)
 
 ### ML
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
