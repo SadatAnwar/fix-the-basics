@@ -48,6 +48,7 @@
 * [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/)
 * [Kaggle Deep Learning](https://www.kaggle.com/learn/deep-learning)
 * [Artificial Neural Networks](https://brilliant.org/courses/artificial-neural-networks/)
+* [Practical Deep Learning For Coders (fast.ai)](http://course.fast.ai/)
 * [fast.ai wiki](http://wiki.fast.ai/index.php/Main_Page)
 * [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
 
