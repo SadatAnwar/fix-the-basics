@@ -15,6 +15,7 @@
 * [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
 * [Khan Academy: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
 * [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+* [Khan Academy: Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 
 ### Optimisation
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
