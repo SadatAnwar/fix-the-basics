@@ -14,6 +14,7 @@
 * [Coding The Matrix: Linear Algebra Through Computer Science Applications](http://codingthematrix.com/)
 * [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
 * [Khan Academy: Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus)
+* [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 ### Optimisation
 * [A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
